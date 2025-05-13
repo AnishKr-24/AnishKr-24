@@ -1,122 +1,142 @@
-<p align="center">
-  <img src="https://github.com/AnishKr-24/Anish_Kumar/blob/main/Picture.png" alt="logo" width="150"/>
-</p>
+![Logo](https://github.com/AnishKr-24/Anish_Kumar/blob/main/Picture.png)
 
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">A passionate Jr. Software Engineer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | React Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishkr-24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding animation" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **React**, **Node.js**
-- 💼 View my projects: [Portfolio](https://portfolio-two-zeta-68.vercel.app/)
-- 📫 Reach me at: **anishkumar620040@gmail.com**
-- 📄 [Resume](https://anishkumar620040.hackerresume.io/318dac87-93de-4c51-9305-65b5fec76965)
-- ⚡ Fun fact: *I am funny 😂*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishkr-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a passionate and results-driven **Full Stack Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **Java & Spring Boot**, and I enjoy crafting responsive frontend experiences using **React.js**.
+
+I'm excited by:
+- Building secure, scalable REST APIs
+- Modular architecture and clean code practices
+- Seamless user interfaces with smooth animations
+- Automation tools that enhance productivity
+
+---
+
+## 🔧 Tech Stack
 
 ### 👨‍💻 Languages
-- Java (Core, J2EE)
-- JavaScript (ES6+), TypeScript
-- Python (Scripting, Data handling)
+- **Java (Core & J2EE)**
+- JavaScript (ES6+), C++
 - SQL (MySQL, Oracle)
 
 ### ☕ Backend Development
-- Spring Boot, Spring MVC, Spring Security
+- Spring Boot, MVC, Security
 - Hibernate, JPA
-- REST APIs, JWT Auth
+- JWT Authentication, REST APIs
 - Maven, Docker
 
 ### 🖥️ Frontend Development
-- React.js (JSX / TSX)
-- Redux Toolkit
-- Framer Motion, React Bootstrap
-- SCSS / CSS Modules
+- React.js, Redux Toolkit
+- React Bootstrap, Framer Motion
+- SCSS, CSS Modules
 
-### 🧰 Tools & Utilities
+### 🛠️ Tools & Utilities
 - Git, GitHub Actions
 - IntelliJ IDEA, VSCode
 - Postman, Swagger/OpenAPI
-- MapStruct, JavaMailSender
-- Linux CLI (Basic)
+- Linux CLI, MapStruct, JavaMailSender
 
-### 🧪 Testing & Practices
+### 🧪 Testing & Dev Practices
 - JUnit, Unit Testing
-- Agile Methodologies, Secure Coding
-- CI/CD Pipelines (Basic)
+- Agile Development, Secure Coding
 - AOP Logging, Centralized Exception Handling
+- CI/CD (basic awareness)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🏢 Full Stack Software Developer Intern  
 **Ashwamedh Motors Pvt. Ltd.** — *Dec 2024 – Present*
 
-- Automated tender data ingestion pipeline using **Python** & **REST APIs**
-- Built secure **RBAC** system with hierarchical roles (Super Admin, Admin, Sub-Admin)
-- Wrote **JUnit** unit tests and optimized SQL queries for performance
-- Worked with Agile teams including QA, BAs, and product stakeholders
+- Built a tender document processing pipeline using **JavaScript** and **REST APIs**, automating ingestion and reducing manual effort.
+- Developed secure **role-based access control (RBAC)** with hierarchical roles (Super Admin, Admin, Sub-Admin).
+- Followed secure coding practices, optimized DB queries, and implemented **JUnit-based testing**.
+- Participated in **Agile sprints**, collaborating with QA, BA, and product teams.
+
+---
+
+## 🛠️ Featured Projects
+
+### 📌 **Hospital Management System**
+Secure Spring Boot backend with JWT auth, DTO mapping, Oracle DB integration, and utility features like email & PDF generation.  
+**Stack**: Java, Spring Boot, Hibernate, JWT, Oracle SQL  
+➡️ *RBAC, modular services, logging, centralized error handling*  
+🔧 *Status: In development*
+
+---
+
+### 📌 **Portfolio Website**
+Responsive and animated portfolio site with dark/light theme toggle and backend API integration.  
+**Stack**: React (Vite), Redux Toolkit, SCSS, Framer Motion  
+➡️ *Theme toggle, GitHub Actions, reusable components*
+
+---
+
+### 📌 **Digi Yatra (Issue Tracker)**
+Full-featured issue-tracking system with secure login and role-based access.  
+**Stack**: React, Node.js, MongoDB  
+➡️ *JWT Auth, email notifications, caching, clean architecture*
+
+---
+
+## 🎓 Education
+
+- 🎓 **MCA – KL University**, Vijayawada (2023 – 2025)  
+- 🎓 **BCA – A.N College**, Patna (2019 – 2022)
+
+---
+
+## 📜 Certifications
+
+- 🏅 Oracle Database SQL Certified – *Oracle Dev Gym*, Apr 2025  
+- 🏅 Salesforce AI Associate – *Salesforce*, Oct 2024  
+- 🏗️ Spring Framework – *(In Progress)*
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/anishkumar70923" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/anish-kumar12345/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/anishkumar620040" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
-  </a>
-  <a href="https://leetcode.com/u/anishkum/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" />
-  </a>
+- 📧 Email: **anishkumar620040@gmail.com**  
+- 💼 LinkedIn: [Anish Kumar](https://www.linkedin.com/in/anish-kumar12345/)  
+- 💻 GitHub: [@AnishKr-24](https://github.com/AnishKr-24)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnishKr-24&show_icons=true&hide_border=true&theme=radical" alt="Anish's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKr-24&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 Languages & Tools
+## 🔥 GitHub Streak
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishKr-24&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Fact
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishkr-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+> I’m the kind of developer who can fix your bugs *and* make you laugh while doing it. 😂
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkr-24&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkr-24" alt="GitHub Streak" />
-</p>
