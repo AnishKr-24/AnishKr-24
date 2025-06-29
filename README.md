@@ -1,7 +1,7 @@
 ![Logo](https://github.com/AnishKr-24/Anish_Kumar/blob/main/Picture.png)
 
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | React Explorer</h3>
+<h3 align="center">🚀 Java Developer |Frontend Developer |  React Explorer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding animation" />
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and results-driven **Full Stack Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **Java & Spring Boot**, and I enjoy crafting responsive frontend experiences using **React.js**.
+I'm a passionate and results-driven **Java Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **Java & Spring Boot**, and I enjoy crafting responsive frontend experiences using **React.js**.
 
 I'm excited by:
 - Building secure, scalable REST APIs
@@ -59,8 +59,8 @@ I'm excited by:
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Software Developer Intern  
-**Ashwamedh Motors Pvt. Ltd.** — *Dec 2024 – Present*
+### 🏢 Frontend Developer Intern  
+**Ashwamedh Motors Pvt. Ltd.** — *Dec 2024 – Apr 2025*
 
 - Built a tender document processing pipeline using **JavaScript** and **REST APIs**, automating ingestion and reducing manual effort.
 - Developed secure **role-based access control (RBAC)** with hierarchical roles (Super Admin, Admin, Sub-Admin).
@@ -104,7 +104,7 @@ Full-featured issue-tracking system with secure login and role-based access.
 
 - 🏅 Oracle Database SQL Certified – *Oracle Dev Gym*, Apr 2025  
 - 🏅 Salesforce AI Associate – *Salesforce*, Oct 2024  
-- 🏗️ Spring Framework – *(In Progress)*
+- 🏅 MongoDB Associate Developer – *MongoDB*, May 2025
 
 ---
 
