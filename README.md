@@ -71,7 +71,7 @@ I'm excited by:
 
 ## 🛠️ Featured Projects
 
-### 📌 **Hospital Management System**
+### 📌 **Weather Application**
 Secure Spring Boot backend with JWT auth, DTO mapping, Oracle DB integration, and utility features like email & PDF generation.  
 **Stack**: Java, Spring Boot, Hibernate, JWT, Oracle SQL  
 ➡️ *RBAC, modular services, logging, centralized error handling*  
