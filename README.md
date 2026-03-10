@@ -1,7 +1,7 @@
 ![Logo](https://github.com/AnishKr-24/Anish_Kumar/blob/main/Picture.png)
 
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">🚀 Java Developer |Frontend Developer |  React Explorer</h3>
+<h3 align="center">🚀 Junior Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding animation" />
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and results-driven **Java Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **Java & Spring Boot**, and I enjoy crafting responsive frontend experiences using **React.js**.
+I'm a passionate and results-driven **Junior Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **NodeJS**, and I enjoy crafting responsive frontend experiences using **React.js**.
 
 I'm excited by:
 - Building secure, scalable REST APIs
@@ -28,29 +28,26 @@ I'm excited by:
 ## 🔧 Tech Stack
 
 ### 👨‍💻 Languages
-- **Java (Core & J2EE)**
-- JavaScript (ES6+), C++
+- **Java**
+- JavaScript (ES6+), ReactJs
 - SQL (MySQL, Oracle)
 
 ### ☕ Backend Development
-- Spring Boot, MVC, Security
-- Hibernate, JPA
+- NodeJs, ExpressJs, MongoDB
 - JWT Authentication, REST APIs
-- Maven, Docker
 
 ### 🖥️ Frontend Development
 - React.js, Redux Toolkit
-- React Bootstrap, Framer Motion
+- React Bootstrap, Material UI
 - SCSS, CSS Modules
 
 ### 🛠️ Tools & Utilities
 - Git, GitHub Actions
 - IntelliJ IDEA, VSCode
-- Postman, Swagger/OpenAPI
-- Linux CLI, MapStruct, JavaMailSender
+- Postman, Linux CLI
 
 ### 🧪 Testing & Dev Practices
-- JUnit, Unit Testing
+- Manual testingJUnit, Unit Testing
 - Agile Development, Secure Coding
 - AOP Logging, Centralized Exception Handling
 - CI/CD (basic awareness)
