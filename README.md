@@ -13,15 +13,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## ## 👨‍💻 About Me
 
-I'm a passionate and results-driven **Junior Developer**, currently pursuing my **Master's in Computer Applications** at KL University. I specialize in backend development with **NodeJS**, and I enjoy crafting responsive frontend experiences using **React.js**.
+I'm a motivated and detail-oriented **Junior Developer** currently working at **Smile For Miles Pvt. Ltd.** since May 2025. I specialize in building modern web applications using **React.js**, **JavaScript**, **Node.js**, and **REST APIs** while pursuing my **Master's in Computer Applications (MCA)** at KL University.
 
-I'm excited by:
-- Building secure, scalable REST APIs
-- Modular architecture and clean code practices
-- Seamless user interfaces with smooth animations
-- Automation tools that enhance productivity
+I enjoy developing scalable applications, creating responsive user interfaces, and solving real-world problems through clean and efficient code.
+
+### 🚀 What I Enjoy Working On
+
+* Building responsive and interactive web applications
+* Developing secure and scalable REST APIs
+* Creating reusable components and modular architecture
+* API integration and frontend optimization
+* Clean code practices and performance improvement
+* Collaborating in Agile development environments
+
 
 ---
 
