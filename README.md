@@ -65,7 +65,7 @@ I enjoy developing scalable applications, creating responsive user interfaces, a
 
 **Smile For Miles Pvt. Ltd.** — *May 2025 – Present*
 
-* Developing and maintaining responsive web applications using **php**, **React.js**, **JavaScript**, **HTML**, **CSS**, and **REST APIs**.
+* Developing and maintaining responsive web applications using **Node.js**, **React.js**, **JavaScript**, **HTML**, **CSS**, and **REST APIs**.
 * Working on travel and booking management modules, improving UI performance and user experience.
 * Integrated backend APIs and implemented secure **role-based access control (RBAC)** for Admin and Sub-Admin users.
 * Optimized reusable components, form validations, and API handling for scalable application architecture.
