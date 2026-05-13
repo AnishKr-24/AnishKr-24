@@ -28,22 +28,21 @@ I'm excited by:
 ## 🔧 Tech Stack
 
 ### 👨‍💻 Languages
-- **Java**
-- JavaScript (ES6+), ReactJs
-- SQL (MySQL, Oracle)
+- JavaScript (ES6+), TypeScript
+- SQL (Postgres, MongoDB, Mysql)
 
 ### ☕ Backend Development
-- NodeJs, ExpressJs, MongoDB
+- NodeJs, ExpressJs, Drizzel, Prisma, Zod
 - JWT Authentication, REST APIs
 
 ### 🖥️ Frontend Development
-- React.js, Redux Toolkit
-- React Bootstrap, Material UI
+- React.js, Hooks, Router, Redux Toolkit, FastApi
+- React Bootstrap, Tailwind CSS
 - SCSS, CSS Modules
 
 ### 🛠️ Tools & Utilities
 - Git, GitHub Actions
-- IntelliJ IDEA, VSCode
+- VSCode, Cursor, Cloude, Chatgpt, Gemini
 - Postman, Linux CLI
 
 ### 🧪 Testing & Dev Practices
@@ -92,8 +91,8 @@ Full-featured issue-tracking system with secure login and role-based access.
 
 ## 🎓 Education
 
-- 🎓 **MCA – KL University**, Vijayawada (2023 – 2025)  
-- 🎓 **BCA – A.N College**, Patna (2019 – 2022)
+- 🎓 **MCA – KL University**, Vijayawada
+- 🎓 **BCA – A.N College**, Patna 
 
 ---
 
