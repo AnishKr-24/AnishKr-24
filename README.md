@@ -55,13 +55,16 @@ I'm excited by:
 
 ## 💼 Professional Experience
 
-### 🏢 Frontend Developer Intern  
-**Ashwamedh Motors Pvt. Ltd.** — *Dec 2024 – Apr 2025*
+### 🏢 Junior Developer
 
-- Built a tender document processing pipeline using **JavaScript** and **REST APIs**, automating ingestion and reducing manual effort.
-- Developed secure **role-based access control (RBAC)** with hierarchical roles (Super Admin, Admin, Sub-Admin).
-- Followed secure coding practices, optimized DB queries, and implemented **JUnit-based testing**.
-- Participated in **Agile sprints**, collaborating with QA, BA, and product teams.
+**Smile For Miles Pvt. Ltd.** — *May 2025 – Present*
+
+* Developing and maintaining responsive web applications using **php**, **React.js**, **JavaScript**, **HTML**, **CSS**, and **REST APIs**.
+* Working on travel and booking management modules, improving UI performance and user experience.
+* Integrated backend APIs and implemented secure **role-based access control (RBAC)** for Admin and Sub-Admin users.
+* Optimized reusable components, form validations, and API handling for scalable application architecture.
+* Collaborating with cross-functional teams in **Agile development environments** to deliver new features and bug fixes.
+
 
 ---
 
