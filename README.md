@@ -49,7 +49,7 @@ I enjoy developing scalable applications, creating responsive user interfaces, a
 ### 🛠️ Tools & Utilities
 - Git, GitHub Actions
 - VSCode, Cursor, Cloude, Chatgpt, Gemini
-- Postman, Linux CLI
+- Docker, Postman
 
 ### 🧪 Testing & Dev Practices
 - Manual testingJUnit, Unit Testing
